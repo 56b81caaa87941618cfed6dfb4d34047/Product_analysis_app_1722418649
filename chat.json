@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button positioned on the screen?\", \"option1\": \"Center of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a popup message with 'Hello World'\", \"option2\": \"Navigate the user to a new page that says 'Hello World'\"}], \"input_token_count\": 261, \"output_token_count\": 102, \"time_taken\": \"0:00:04.132981\"}",
+        "message_id": "guest31072024093857",
+        "timestamp": "31072024093903",
+        "component_file_name": "simple_hero_component_1722418650",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a button that says \"Hello World\".",
         "message_id": "guest31072024093857",
